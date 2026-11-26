@@ -1,0 +1,5 @@
+publish: true
+type: demo
+title: E-puck Room Patrol (APF)
+world: worlds/epuck static APF.wbt
+description: E-puck robot patrolling a room along waypoints, avoiding obstacles with artificial potential fields.
